@@ -5,8 +5,7 @@
 -》Feel free to ask me any questions about my repository!
 -》🌌Some People Want To See You Fail. Disappoint Them!
 
-- <a href="https://www.instagram.com/swipedXD/"><img src="https://img.shields.io/badge/instagram%20@swipedXD-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.twitter.com/198riseup/"><img src="https://img.shields.io/badge/twitter%20@198riseup-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href="https://www.instagram.com/lewd.cs/"><img src="https://img.shields.io/badge/instagram%20@swipedXD-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://altsec.cc/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20altsec.cc-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
@@ -29,4 +28,4 @@
 
 <p align="center">
 </p>
-⭐️ From [swiped](https://github.com/nekolewds)
+⭐️ From [lewd](https://github.com/nekolewds)
