@@ -1,6 +1,6 @@
-Discord:Lewd#8064
-Insta:lewd.cs
-Insta Alt:lewd.py
-TikToks: .arugment | akamaitechnologies |spamhaus
-fedfigures | tcpconnection | 4figures | sshlogs
-Youtube:Sellix
+-》🌙My personal hobby I do in my freetime is studying networking and programming.
+-》🚀Looking forward to many thrilling program adventures!
+-》📫Contact:Lewd#1337
+-》DE,PH,ELSL
+-》Feel free to ask me any questions about my repository!
+-》🌌Some People Want To See You Fail. Disappoint Them!
