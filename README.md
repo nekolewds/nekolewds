@@ -1,12 +1,14 @@
--》🌙My personal hobby I do in my freetime is studying networking and programming.
--》🚀Looking forward to many thrilling program adventures!
--》📫Contact:Lewd#1337
--》DE,PH,ELSL
--》Feel free to ask me any questions about my repository!
--》🌌Some People Want To See You Fail. Disappoint Them!
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Python and others...
+- 💬 Ask me anything about my projects
+- 📫 How to reach me: altsec@shenron.ru
+- 😄 My friends website: altsec.cc
+- ⚡ Fun fact: I'm 14, working on mass scale projects.
 
 - <a href="https://www.instagram.com/lewd.cs/"><img src="https://img.shields.io/badge/instagram%20@swipedXD-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://altsec.cc/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20altsec.cc-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+
+
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
@@ -28,4 +30,4 @@
 
 <p align="center">
 </p>
-⭐️ From [lewd](https://github.com/nekolewds)
+⭐️ From [Lewd](https://github.com/nekolewds)
