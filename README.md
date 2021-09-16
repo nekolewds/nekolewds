@@ -2,7 +2,7 @@
 - 🧨I’m currently working on Web Development
 - 🖤I’m currently learning Python and others...
 - 💉 Ask me anything about my projects
-- 📧 How to reach me: Lewd#1337
+- 📧 How to reach me: Lewd?#1234
 - 🎈 My friends website: altsec.cc
 - ❔ Fun fact: I'm 14, working on mass scale projects.
 - 🃏"Some people want to see you fail. Disappoint them!"
