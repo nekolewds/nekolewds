@@ -1,10 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=x6j)
 
-- El Salvadorean,Philipino, and German <3
-- 🖤Discord:Lewd#0001
-- 💉 t.me/grabify
-- 📧 How to reach me: otp@riseup.net
-- 🃏"Some people want to see you fail. Disappoint them!"
+Session: 05c48eb33a45bccc005f6aafebdc741d20700cb60786815a8bec5395e7f286d358
+tele: grabify
+Disc: Lewd#3333
 
 
 
